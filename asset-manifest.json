@@ -1,7 +1,7 @@
 {
   "main.css": "/estate/static/css/main.01264b45.chunk.css",
-  "main.js": "/estate/static/js/main.d6a63094.chunk.js",
-  "main.js.map": "/estate/static/js/main.d6a63094.chunk.js.map",
+  "main.js": "/estate/static/js/main.aa63b256.chunk.js",
+  "main.js.map": "/estate/static/js/main.aa63b256.chunk.js.map",
   "static/js/1.6053b82e.chunk.js": "/estate/static/js/1.6053b82e.chunk.js",
   "static/js/1.6053b82e.chunk.js.map": "/estate/static/js/1.6053b82e.chunk.js.map",
   "runtime~main.js": "/estate/static/js/runtime~main.ac50fb64.js",
@@ -9,6 +9,6 @@
   "static/media/Home.css": "/estate/static/media/real-estate-background-1.cef7d183.jpg",
   "static/css/main.01264b45.chunk.css.map": "/estate/static/css/main.01264b45.chunk.css.map",
   "index.html": "/estate/index.html",
-  "precache-manifest.92c6aa688a5b84e5e00e71d0fa9e710e.js": "/estate/precache-manifest.92c6aa688a5b84e5e00e71d0fa9e710e.js",
+  "precache-manifest.acbf143b33f5f8cb32221d176d878d7e.js": "/estate/precache-manifest.acbf143b33f5f8cb32221d176d878d7e.js",
   "service-worker.js": "/estate/service-worker.js"
 }
